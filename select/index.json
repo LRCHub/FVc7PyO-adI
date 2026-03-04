@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "鬼KYOKAN",
+  "base_artist": "じーざす(ワンダフル☆オポチュニティ!)",
+  "createdAt": "2026-03-04T09:12:04.280269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": false,
+      "path": "select/01_鬼KYOKAN_Wonderful★opportunity!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "じーざすP feat. 鏡音リン, 鏡音レン",
+      "has_synced": false,
+      "path": "select/02_鬼KYOKAN_じーざすP_feat._鏡音リン,_鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": true,
+      "path": "select/03_鬼KYOKAN_Wonderful★opportunity!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "じーざすP feat. kradness×Reol",
+      "has_synced": false,
+      "path": "select/04_鬼KYOKAN_じーざすP_feat._kradness×Reol.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "じーざすP",
+      "has_synced": false,
+      "path": "select/05_鬼KYOKAN_じーざすP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "jesus (wonderful Opportunity!!)",
+      "has_synced": true,
+      "path": "select/06_鬼KYOKAN_jesus_(wonderful_Opportunity!!).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "鬼KYOKAN",
+      "artist": "kradness",
+      "has_synced": false,
+      "path": "select/07_鬼KYOKAN_kradness.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鬼KYOKAN",
+      "artist": "じーざすP",
+      "has_synced": false,
+      "path": "select/pl_01_鬼KYOKAN_じーざすP.txt"
+    }
+  ]
+}
